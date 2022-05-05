@@ -16,3 +16,5 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 06 Scroll Animation
 ### 07 Split Loading Page
 ### 08 Form Wave Animation
+### 09 Sound Board
+### 10 Dad Jokes
