@@ -22,3 +22,4 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 12 FAQ Collapse
 ### 13 Random Choice Picker
 ### 14 Animated Navigation
+### 15 Incrementing Counter
