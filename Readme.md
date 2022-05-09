@@ -24,3 +24,5 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 14 Animated Navigation
 ### 15 Incrementing Counter
 ### 16 Drink Water
+### 17 Movie App
+### 18 Background Slider
