@@ -34,3 +34,4 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 24 Content Placeholder
 ### 25 Sticky Navbar
 ### 26 Double Vertical Slider
+### 27 Toast Notification
