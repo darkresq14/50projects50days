@@ -30,3 +30,4 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 20 Button Ripple Effect
 ### 21 Drag N Drop
 ### 22 Drawing App
+### 23 Kinetic CSS Loader
