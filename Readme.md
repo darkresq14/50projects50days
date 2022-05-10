@@ -38,3 +38,5 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 28 GitHub Profiles
   - axios
 ### 29 Double Click Heart
+### 30 Typewriter Effect
+### 31 Password Generator
