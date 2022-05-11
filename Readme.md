@@ -36,7 +36,8 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 26 Double Vertical Slider
 ### 27 Toast Notification
 ### 28 GitHub Profiles
-  - axios
+  - Axios
 ### 29 Double Click Heart
 ### 30 Typewriter Effect
 ### 31 Password Generator
+### 32 Good, Cheap and Fast Checkboxes
