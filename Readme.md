@@ -41,3 +41,6 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 30 Typewriter Effect
 ### 31 Password Generator
 ### 32 Good, Cheap and Fast Checkboxes
+### 33 Notes App
+- Local Storage
+- Marked
