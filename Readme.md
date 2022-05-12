@@ -52,3 +52,4 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 39 Password Strength Background
   - Tailwind
 ### 40 3D Background Boxes
+### 41 Verify Account UI
