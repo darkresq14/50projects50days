@@ -42,10 +42,12 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 31 Password Generator
 ### 32 Good, Cheap and Fast Checkboxes
 ### 33 Notes App
-- Local Storage
-- Marked
+  - Local Storage
+  - Marked
 ### 34 Animated Countdown
 ### 35 Image Carousel
 ### 36 Hoverboard
 ### 37 Pokédex
 ### 38 Mobile Tab Navigation
+### 39 Password Strength Background
+  - Tailwind
