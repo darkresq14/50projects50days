@@ -54,3 +54,5 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 40 3D Background Boxes
 ### 41 Verify Account UI
 ### 42 Live User Filter
+### 43 Feedback UI Design
+### 44 Custom Range Slider
