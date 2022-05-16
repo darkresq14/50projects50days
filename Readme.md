@@ -56,3 +56,6 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 42 Live User Filter
 ### 43 Feedback UI Design
 ### 44 Custom Range Slider
+### 45 Netflix Navigation
+### 46 Quiz App
+### 47 Testimonial Box Switcher
