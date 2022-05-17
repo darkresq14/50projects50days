@@ -18,6 +18,7 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 08 Form Wave Animation
 ### 09 Sound Board
 ### 10 Dad Jokes
+  - AJAX / Fetch
 ### 11 Event Key-Codes
 ### 12 FAQ Collapse
 ### 13 Random Choice Picker
@@ -59,3 +60,6 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 45 Netflix Navigation
 ### 46 Quiz App
 ### 47 Testimonial Box Switcher
+### 48 Random Image Feed
+  - Infinite Scroll
+### 49 Todo List
