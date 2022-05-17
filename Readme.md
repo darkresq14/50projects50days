@@ -1,12 +1,12 @@
 # 50 Projects In 50 Days - HTML, CSS & JavaScript
 
 > Author: Razvan Bielz
-> Date: 04.05.2022-
+> Date: 04.05.2022 - 17.05.2022
 
 From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traversy and Florin Pop
 
 ### Project Starter Boilerplate _PROJECT_STARTER_
-- includes fontawesome
+- Includes fontawesome CDN
 
 ### 01 Expanding Cards
 ### 02 Progress Steps
@@ -63,3 +63,4 @@ From Udemy Course 50 Projects In 50 Days - HTML, CSS & JavaScript by Brad Traver
 ### 48 Random Image Feed
   - Infinite Scroll
 ### 49 Todo List
+### 50 Insect Catch Game
